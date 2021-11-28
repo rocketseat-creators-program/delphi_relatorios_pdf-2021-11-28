@@ -1,29 +1,30 @@
-# delphi_relatorios_pdf_modelo01
+<img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-#== == Delphi:Relatórios e PDFs == == 
+# Delphi:Delphi: gerando relatórios ReportBuilder e PDFs com FireDAC e ClientDataSet
 
-Componetes
+Nessa aula vou apresentar como eu faço para imprimir meus relatório ou alguma lista listagem de consulta da tela ou até mesmo e mostrando para o usuário em forma de pré-visualização da impressão na tela.
 
-Query:
-QRelSaidaFormaPgto_Analitico
+## Comandos principais
 
-DataSource:
-dsSaidaFormaPgto_Analitico
+Utilizaremos e explicaremos os componentes: ReportBuilder, FireDAC e ClientDataSet.
 
-Pipeline:
-ppSaidaFormaPgto_Analitico
+## Tecnologias
 
+- [Delphi](https://www.embarcadero.com)
+- [FireDAC](https://docwiki.embarcadero.com/RADStudio/Sydney/en/FireDAC)
+- [Firebird](https://firebirdsql.org/)
+- [IBExpert](https://www.ibexpert.net/ibe/)
+- [ReportBuilder](http://www.digital-metaphors.com/)
 
+## Funcionalidades
 
-NO FINAL
+- Criar um relatório de dados podendo ser salvo em pdf.
 
-Alterações opcionais:
+## Ambiente, recursos e requisitos necessários
 
-TppReport:
-rpSaidaFormaPgto_Analitico
---
-PassSetting: psTwoPass
-PreviewFormSetting:
-
+- Delphi XE10
+- Firebird
+- IBExpert
+- Vontade de aprender :D
 
 
