@@ -1,6 +1,6 @@
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-# Delphi:Delphi: gerando relatórios ReportBuilder e PDFs com FireDAC e ClientDataSet
+# Delphi: gerando relatórios ReportBuilder e PDFs com FireDAC e ClientDataSet
 
 Nessa aula vou apresentar como eu faço para imprimir meus relatório ou alguma lista listagem de consulta da tela ou até mesmo e mostrando para o usuário em forma de pré-visualização da impressão na tela.
 
